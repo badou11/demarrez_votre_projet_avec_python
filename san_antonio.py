@@ -54,7 +54,7 @@ def random_character():
 
 
 ######################
-#### INTERACTION ######
+#### INTERACTIONS ######
 ######################
 
 # Print a random sentence.
